@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/index.js"],"names":[],"mappings":";;AAAA;;;;AACA;;;;AAEA","file":"index.js","sourcesContent":["import React from 'react';\nimport ReactDOM from 'react-dom';\n\nimport './index.css';\n\n/*\nclass Calculator extends React.Com{\n\n}\n\n\nReactDOM.render(\n    <Calculator />,\n    document.getElementById('root')\n);\n*/\n\n"]}

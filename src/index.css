@@ -1,0 +1,46 @@
+.calculator{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.board{
+    display: flex;
+}
+
+.number-sign{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.number{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button{
+    width:83px;
+    height: 40px;
+    background-color: lightgray;
+}
+
+.sign{
+    display: flex;
+    flex-direction: column;
+}
+
+.button-zero{
+    width : 166px;
+}
+
+.answer{
+    background-color: lightgray;
+    width: 313px;
+    text-align: right;
+    line-height: 40px;
+    padding-right: 20px;
+    font-weight: bold;
+}
