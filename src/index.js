@@ -137,6 +137,7 @@ class Calculator extends React.Component{
                     }
                 </div>
                 </div>
+                <a className="git-link" href="https://github.com/mauliktrapas/calculator">Github code Link</a>
             </div>
         )
     }
