@@ -4,12 +4,14 @@
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/build/service-worker.js" />
         <item url="file://$PROJECT_DIR$/dist/build/static/js/main.58549035.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/static/js/main.f8886784.js" />
         <item url="file://$PROJECT_DIR$/dist/src/index.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/build/service-worker.js" />
       <root url="file://$PROJECT_DIR$/dist/build/static/js/main.58549035.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/static/js/main.f8886784.js" />
       <root url="file://$PROJECT_DIR$/dist/src/index.js" />
     </CLASSES>
     <SOURCES />
